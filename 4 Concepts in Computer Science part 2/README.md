@@ -1,4 +1,4 @@
 Concepts in Computer Science Part 2.
 ======
-Machine learning
-Recommendation engines
+-Machine learning  
+-Recommendation engines  

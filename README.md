@@ -8,24 +8,24 @@ Companies are hiring product managers from MBA programs, yet what can MBA progra
 1. Introduction
   1. Introduction to web technology Part 1.
   2. Introduction to web technology Part 2. 
-  3. Concepts in Computer Science
+  3. Concepts in Computer Science Part 1.
+  4. Concepts in Computer Science Part 2.
 2. Design
-  4. MRD and PRD: Understanding Market Requirements and translating them into Product Requirements
-  5. MRD and PRD: practical application building an MRD/PRD 
-  6. UX/UI: good design and wireframing
-  7. UX/UI: practical application building a wireframe
-  8. Design: Typography, Colors, and Balance
-  9. Design: practical application in photoshop 
+  5. MRD and PRD: Understanding Market Requirements and translating them into Product Requirements
+  6. MRD and PRD: practical application building an MRD/PRD 
+  7. UX/UI: good design and wireframing
+  8. UX/UI: practical application building a wireframe
+  9. Design: Typography, Colors, and Balance
+  10. Design: practical application in photoshop 
 3. Execution
-  10. Agile vs. Waterfall Project Management
-  11. Working with developers
-  12. Intro to coding
-  13. Intro to SQL
+  11. Agile vs. Waterfall Project Management
+  12. Working with developers
+  13. Intro to coding
+  14. Intro to SQL
 4. Launch
-  14. User acquisition Part 1.
-  15. User acquisition Part 2.
+  15. User acquisition Part 1.
+  16. User acquisition Part 2.
 5. Iteration and Metrics
-  16. Metrics and A/B testing
+  17. Metrics and A/B testing
 6. Final project
-  17. Present and critique PRD and wireframes Part 1
-  18. Present and critique PRD and wireframes Part 2
+  18. Present and critique PRD and wireframes 
